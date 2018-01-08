@@ -7,11 +7,7 @@ Description: This package is used to check the distribution of individuals based
 used to check the normality of the distribution. 
 
 Requirement: 
-Before using, please install and load "imputeTS" package:
-
-install.packages("imputeTS")
-
-library(imputeTS)
+Before using, please install and load "imputeTS" package: install.packages("imputeTS"); library(imputeTS)
 
 Install in R: 
 
