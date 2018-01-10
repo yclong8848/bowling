@@ -12,3 +12,5 @@ Before using, please install and load "imputeTS" package: install.packages("impu
 Install bowling in R: 
 
 install.packages("bowling_1.0.tar.gz", repos = NULL) 
+
+"XYZ.csv" is an example of input data. 
